@@ -1,0 +1,5 @@
+# ITIL
+
+- Restaurar o serviço rápido (gerenciamento de incidente) -> (O usuário está sofrendo o impacto agora, o técnico precisa fazer o sistema voltar a funcionar, mesmo que seja com uma solução temporária ou "gato").
+- Causa-raiz, por que aconteceu, evitar recorrência (problema) -> O sistema já voltou ou está funcionando, mas alguém precisa investigar o motivo técnico profundo para que o erro não volte a acontecer).
+- Ambiente controlado, planejar, avaliar risco, autoridade de mudança (mudanças) -> Qualquer alteração oficial no ambiente de TI passa por aqui para evitar que uma correção vire um novo incidente).
